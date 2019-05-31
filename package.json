@@ -20,7 +20,10 @@
   "homepage": "https://github.com/Shreyaasumann/FriendFinder#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "mysql": "^2.17.1"
+    "mysql": "^2.17.1",
+    "sequelize": "^5.8.6"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "sequelize-cli": "^5.4.0"
+  }
 }
